@@ -21,8 +21,8 @@
   "type": "module",
   "workspaces": [
    "index.js",
-   "const/factory/index.js",
-   "const/user/index.js",
-   "const/factory/abc/index.js"
+   "const/factory",
+   "const/user",
+   "const/factory/abc"
   ]
 }
