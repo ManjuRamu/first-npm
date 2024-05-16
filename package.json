@@ -17,5 +17,6 @@
   "bugs": {
     "url": "https://github.com/ManjuRamu/first-npm/issues"
   },
-  "homepage": "https://github.com/ManjuRamu/first-npm#readme"
+  "homepage": "https://github.com/ManjuRamu/first-npm#readme",
+  "type": "module"
 }
