@@ -1,3 +1,1 @@
-export const hello = () =>{
-  console.log("Hellomodified")
-}
+export * from "./const"
