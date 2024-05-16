@@ -19,10 +19,10 @@
   },
   "homepage": "https://github.com/ManjuRamu/first-npm#readme",
   "type": "module",
-  "exports": {
-    "all" :"index.js",
-    "factory":"const/factory/index.js",
-    "const/user":"const/user/index.js",
-    "const/factory/abc/index.js":"const/factory/abc/index.js"
-  }
+  "workspaces": [
+   "index.js",
+   "const/factory/index.js",
+   "const/user/index.js",
+   "const/factory/abc/index.js"
+  ]
 }
