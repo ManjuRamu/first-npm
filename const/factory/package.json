@@ -17,5 +17,10 @@
     "url": "https://github.com/ManjuRamu/first-npm/issues"
   },
   "homepage": "https://github.com/ManjuRamu/first-npm#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "first-npm/factory/abc":"latest",
+    
+    "first-npm/factory/def":"latest"
+  }
 }
